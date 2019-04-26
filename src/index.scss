@@ -1,0 +1,15 @@
+
+@import './mixins.scss';
+
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: $purple-dark;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
