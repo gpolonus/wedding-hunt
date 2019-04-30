@@ -1,0 +1,20 @@
+
+.ScrambleLetter {
+  input {
+    -webkit-text-fill-color:#000;
+    -webkit-opacity: 1;
+    opacity: 1 !important;
+    -webkit-appearance: none;
+    background: transparent;
+    border: 0;
+    color: #000;
+    border-bottom: 2px solid #000;
+    outline: none;
+    width: 50px;
+    font-size: 40px;
+    margin: 5px;
+    text-transform: capitalize;
+    border-radius: 0;
+    text-align: center;
+  }
+}

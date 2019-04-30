@@ -1,7 +1,6 @@
 # Wedding Scavneger Hunt / Travelling Puzzle
 
 ## Ideas
-- allison hadjis
 - words under someone's name tag on the table
 - from my mom
 - make a subdomain on the wedding website redirect to my site that has
@@ -12,8 +11,6 @@
   - celebrities:
     - Dr. Drew: $155
     - Nick Swardson: $99
-    - Fortune Feimster: $50
-    - Chris Distefano: $25
     - Stephen Rannazzisi: $100
       - the league
 - ~~cake with a picture of us on it~~
@@ -63,7 +60,7 @@
     - somehow get it to Allison ahead of time
       - have Yasmeen give it to her
     - Good morning my love!  
-    You're one I can't stop thinking of!  
+    You are one I can't stop thinking of!  
     Today is the big, special day  
     And I thought it'd be fun to have a game to play.  
     I took some time to dutifully prepare  
@@ -118,36 +115,99 @@
     - /brady
 
 1. Hidden in the RedStone Room
-    - attach the letter to the underside of Table 9
-    - 
+    - attach letters to the underside of Table 9, 7, 11, and 13
+    - Tables:
+      - 7  
+      How the time flies by when you have fun!  
+      But I'm afraid we're not finished just yet.  
+      Over by the grassy highland, go there, you're almost done.  
+      Here there's also a water source quite wet.  
+      Next: 11  
+      - 9  
+      So you found the first RedStone one! Yippee!  
+      But the next clue's location's a quagmire.  
+      "How do we get to the next one?" you'll inquire.  
+      Just go to our birth number, bb!  
+      Next: 13  
+      - 11  
+      Right about now you'll need all the RedStone rhyme,  
+      And put them in the order you found them.  
+      Now starting with the first, take the first letter of every other line  
+      And go to grifstuf.com, my good chum!  
+      - 13  
+      Oh good! You found it! Let's move quickly  
+      To the place where two of my people will sit.  
+      Each of them have the same name, totally.  
+      And at this table they'll fit.  
+      Next: 7
+    - SHOEHORN vs BJTABHAA
+    - /shoehorn
+    - /bjtabhaa leads to a hint that tells you to to start differently
+
+
+1. Ceremony Lady
+    - Give to the lady with a literal childrens puzzle when we are both in the church
 You've made it quite far!
 Hurray Huzzah!
 We're getting ever closer to that wonderful time,
 When I'll be forever yours and you'll be forever mine.
+But the game shall continue,
+So here's another clue for you!
+I've gotten you a puzzle
+That will hopefully your mind confuzzle.
 
-
-1. Ceremony Lady
+TO BE CONTINUED UPON PURCHASE OF RANDOM THINGS FROM A DOLLAR TREE
 
 1. Tiny Tunes
+    - Setup
+      - give a letter to Tiny earlier that day when he is setting up the DJ booth
+      - ask if he can make the Bridesmaids and Groomsmen sing I'm a little teapot in order for Queta to get the next clue
+      - if he thinks it is a bad idea, then have him simply give the clue to Queta when he sees her
+    - You made it to the last one!  
+    And still the fun is not done!  
+    Yet you are so very close,  
+    So please dont be morose.  
+    You've been through so much today,  
+    So I'll make the last one child's play,  
+    Since writing poems is really hard-atta.  
+    And because I'm really frattata.  
+    So here's the last answer: 'my always and forever'  
+    Because to say 'I love you' I don't always need to be clever
 
 
 ## Words
 B R I D E S M A I D S N A M E S: 16  
-A B D E I M N R S     
-2 1 2 2 2 2 1 1 3     
+A B D E I M N R S
+2 1 2 2 2 2 1 1 3
 
 * O D D B A L L  
 A B D D
 
+This weird sphere event was where we some good buns talk for ahwile, then it was really dark on the way home.
+
 * M A I D O F T H E M I S T  
 A I I M M S
+
+This lady of the steam was the vehicle we rode on between our country and its hat where we were peed on while wearing grocery sacs.
 
 * L E O N T R O T S K Y  
 N R S
 
+I am not the only one who thinks you are sexsky. What Marxist theorist am I talking about?
+
 * C H E E S E  
 E E S
 
-Clue for the unscrambling: What were those girls standing next to you called again? And all of them have a first, middle, and last one of these, but you, my love, have some extra ones, and as of today a new one! Work together and good luck!!!
+I take many forms.
+When I am expensive, I am old.
+When I am in a grocery store, I am young.
+When I am around chips, I am not yours.
+When I am at Olive Garden, the servers take me everywhere.
+Asians can't handle me.
+Vegans hate me.
+Keto needs me.
+Queta loves me.
 
+
+Clue for the unscrambling: What were those girls standing next to you called again? And all of them have a first, middle, and last one of these, but you, my love, have some extra ones, and as of today a new one! Work together and good luck!!!
 

@@ -35,3 +35,14 @@ $grey-dark: #544E5C;
   @include pic-bg($pic, $grad-dir, $grad-op);
   overflow-y: auto;
 }
+
+// just needs the utilizing class to define the picture for the background
+@mixin setup-pic-full-bg {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow-y: auto;
+}

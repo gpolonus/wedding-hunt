@@ -15,7 +15,8 @@
     "start": "npm run clear-build && parcel serve ./src/index.html",
     "build": "npm run clear-build && npm run build-css && parcel build ./src/index.html && cp ./public/* ./dist",
     "build-css": "node-sass-chokidar src/ -o src/",
-    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive"
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "deploy": "npm run build && firebase login && firebase deploy"
   },
   "author": "",
   "license": "ISC"

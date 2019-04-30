@@ -1,0 +1,7 @@
+
+@import '../../mixins.scss';
+
+.Page {
+  @include setup-pic-full-bg;
+}
+
